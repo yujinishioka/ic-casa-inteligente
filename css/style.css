@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Lobster;
+    src: url(../fonts/Lobster_Two/LobsterTwo-Regular.ttf);
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
+body {
+    font-family: Roboto;
+    color: rgb(255, 255, 255);
+    background-color: rgb(45, 45, 45);
+}
+
+.container {
+    margin: 0 32px;
+}
+
+.casa {
+    width: 80%;
+    margin: auto;
+    margin-top: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid blue;
+}
+
+.comodo {
+    width: 50%;
+    height: 250px;
+    font-size: 32px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: Lobster;
+    font-size: 50px;
+    margin-top: 32px;
+}
