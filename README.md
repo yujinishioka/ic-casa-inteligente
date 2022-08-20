@@ -2,6 +2,5 @@
 
 Site para a Iniciação Cientifica da Casa Inteligente
 
-<div>
-    <a src='https://yujinishioka.github.io/ic-casa-inteligente/'>Link de acesso aqui!</a>
-</div>
+
+[![MDN](https://img.shields.io/badge/LINK-Aqui!-red)](https://yujinishioka.github.io/ic-casa-inteligente/)
